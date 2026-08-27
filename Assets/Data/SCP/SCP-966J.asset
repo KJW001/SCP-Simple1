@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-966J
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-966J
+  nickname: "\uCD94\uACA9\uC790"
+  containmentClass: Keter
+  description: "\uD55C \uBC88 \uD45C\uC801\uC744 \uC815\uD558\uBA74 \uB048\uC9C8\uAE30\uAC8C
+    \uCD94\uACA9\uD558\uB294 \uC720\uD615."
+  archetype: 4
+  patrolSpeed: 1.5
+  chaseSpeed: 3
+  detectionRange: 20
+  fieldOfView: 120
+  hearingRange: 6
+  attackRange: 2
+  attackDamage: 40
+  attackCooldown: 1.3
+  sanityDrainPerSecond: 5
+  maxHealth: 220

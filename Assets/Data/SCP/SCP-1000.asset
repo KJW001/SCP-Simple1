@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-1000
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-1000
+  nickname: "\uBE45\uD48B"
+  containmentClass: Euclid
+  description: "\uAC70\uB300\uD55C \uC720\uC778\uC6D0. \uACBD\uACC4\uC2EC\uC774 \uAC15\uD558\uC9C0\uB9CC
+    \uC704\uD611\uBC1B\uC73C\uBA74 \uB9F9\uB82C\uD788 \uB3CC\uC9C4\uD55C\uB2E4."
+  archetype: 0
+  patrolSpeed: 2.5
+  chaseSpeed: 6
+  detectionRange: 18
+  fieldOfView: 120
+  hearingRange: 7
+  attackRange: 2.5
+  attackDamage: 45
+  attackCooldown: 1
+  sanityDrainPerSecond: 3
+  maxHealth: 250

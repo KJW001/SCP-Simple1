@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-303
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-303
+  nickname: "\uBB38\uC758\uACF5\uD3EC"
+  containmentClass: Euclid
+  description: "\uBB38 \uB108\uBA38\uC5D0\uC11C \uC774\uBE68\uC744 \uB4DC\uB7EC\uB0B4\uBA70
+    \uD1B5\uACFC\uB97C \uB9C9\uB294 \uC874\uC7AC."
+  archetype: 3
+  patrolSpeed: 1
+  chaseSpeed: 4
+  detectionRange: 12
+  fieldOfView: 90
+  hearingRange: 5
+  attackRange: 2
+  attackDamage: 35
+  attackCooldown: 1
+  sanityDrainPerSecond: 6
+  maxHealth: 90

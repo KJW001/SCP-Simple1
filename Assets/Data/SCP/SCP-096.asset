@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-096
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-096
+  nickname: "\uBD80\uB044\uB7FC\uC7C1\uC774"
+  containmentClass: Euclid
+  description: "\uC5BC\uAD74\uC744 \uBCF8 \uB300\uC0C1\uC744 \uC9C0\uAD6C \uB05D\uAE4C\uC9C0
+    \uCD94\uACA9\uD574 \uAC08\uAE30\uAC08\uAE30 \uCC22\uB294\uB2E4."
+  archetype: 2
+  patrolSpeed: 1.8
+  chaseSpeed: 5.5
+  detectionRange: 80
+  fieldOfView: 360
+  hearingRange: 0
+  attackRange: 2
+  attackDamage: 30
+  attackCooldown: 1
+  sanityDrainPerSecond: 4
+  maxHealth: 0

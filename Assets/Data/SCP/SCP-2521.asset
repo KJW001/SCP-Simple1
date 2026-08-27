@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-2521
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-2521
+  nickname: "\u25CF\u25CF|\u25CF\u25CF\u25CF\u25CF\u25CF|\u25CF\u25CF|\u25CF"
+  containmentClass: Keter
+  description: "\uAE00\uC774\uB098 \uB9D0\uB85C \uC5B8\uAE09\uD558\uBA74 \uB098\uD0C0\uB098
+    \uADF8 \uC815\uBCF4\uB97C \uAC00\uC838\uAC04\uB2E4. \uC774\uBBF8\uC9C0\uB85C\uB9CC
+    \uC874\uC7AC."
+  archetype: 5
+  patrolSpeed: 2
+  chaseSpeed: 5
+  detectionRange: 22
+  fieldOfView: 110
+  hearingRange: 10
+  attackRange: 2
+  attackDamage: 50
+  attackCooldown: 1.5
+  sanityDrainPerSecond: 6
+  maxHealth: 0

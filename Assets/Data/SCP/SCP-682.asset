@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-682
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-682
+  nickname: "\uBD88\uBA78\uB3C4\uB9C8\uBC40"
+  containmentClass: Keter
+  description: "\uC8FD\uC9C0 \uC54A\uB294 \uD30C\uCDA9\uB958. \uADF9\uD55C\uC758
+    \uC801\uC751\uB825\uC73C\uB85C \uBB34\uC5C7\uC774\uB4E0 \uD30C\uAD34\uD55C\uB2E4."
+  archetype: 4
+  patrolSpeed: 2
+  chaseSpeed: 5
+  detectionRange: 25
+  fieldOfView: 120
+  hearingRange: 8
+  attackRange: 3
+  attackDamage: 60
+  attackCooldown: 1.2
+  sanityDrainPerSecond: 5
+  maxHealth: 999

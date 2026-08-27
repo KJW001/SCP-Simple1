@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0634e551988c907498941617f96e5813, type: 3}
+  m_Name: SCP-3008
+  m_EditorClassIdentifier: Assembly-CSharp::SCPGame.SCP.SCPData
+  scpNumber: SCP-3008
+  nickname: "\uBB34\uD55C\uC774\uCF00\uC544"
+  containmentClass: Euclid
+  description: "\uBC24\uC774 \uB418\uBA74 \uAE68\uC5B4\uB098\uB294 \uC9C1\uC6D0\uB4E4.
+    \uB05D\uC5C6\uB294 \uB9E4\uC7A5\uC744 \uBC30\uD68C\uD55C\uB2E4."
+  archetype: 3
+  patrolSpeed: 1.8
+  chaseSpeed: 4
+  detectionRange: 15
+  fieldOfView: 110
+  hearingRange: 6
+  attackRange: 2
+  attackDamage: 35
+  attackCooldown: 1.2
+  sanityDrainPerSecond: 4
+  maxHealth: 140
